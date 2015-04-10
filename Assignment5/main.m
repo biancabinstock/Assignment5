@@ -17,6 +17,7 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
         Coordinate *firstCoordinate = [[Coordinate alloc] init];
+        //not used
         Coordinate *secondCoordinate = [[Coordinate alloc] init];
 //        old way
         [firstCoordinate setX:4];
