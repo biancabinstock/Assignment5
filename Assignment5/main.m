@@ -8,7 +8,7 @@
 
 
 //Define a class called XYPoint that will hold a Cartesian coordinate (x, y), where x and y are integers. Define methods to individually set the x and y coordinates of a point and retrieve their values. Write an Objective-C program to implement your new class and test it.
-
+// there are several ways to approach this- i wasnt sure how- i did this try with properties defined in the h file
 
 #import <Foundation/Foundation.h>
 #import "Coordinate.h"
